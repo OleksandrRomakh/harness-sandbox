@@ -10,3 +10,5 @@ It is intentionally minimal so changes are easy to review.
 - `npm run typecheck` — run tsc --noEmit
 - `npm test` — run vitest
 - `npm run check` — run lint, typecheck, and test in sequence
+
+<!-- test comment testing harness -->
